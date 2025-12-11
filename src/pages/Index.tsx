@@ -148,7 +148,7 @@ const Index = () => {
 
   <div className="flex gap-4">
     <a
-      href="https://github.com/notaryajbm"
+      href="https://github.com/notaryagg"
       className="text-foreground hover:text-mocha-mauve transition-colors"
       target="_blank"
       rel="noopener noreferrer"
