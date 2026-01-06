@@ -143,12 +143,12 @@ const Index = () => {
   </h1>
 
   <p className="term-line font-mono text-mocha-text mb-4">
-    a self-taught dev from iran. i enjoy coding & gaming.
+    a self-taught dev from iran. i enjoy coding & gaming. i use arch btw.
   </p>
 
   <div className="flex gap-4">
     <a
-      href="https://github.com/notaryagg"
+      href="https://github.com/n0tarya1"
       className="text-foreground hover:text-mocha-mauve transition-colors"
       target="_blank"
       rel="noopener noreferrer"
