@@ -70,7 +70,7 @@ const Index = () => {
         }
 
         const response = await fetch(
-          "https://api.github.com/users/notaryagg/repos?sort=updated&per_page=9"
+          "https://api.github.com/users/n0tarya1/repos?sort=updated&per_page=9"
         );
         if (!response.ok) throw new Error(`github api returned ${response.status}`);
 
