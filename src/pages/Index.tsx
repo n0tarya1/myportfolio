@@ -139,7 +139,7 @@ const Index = () => {
 >
   <h1 className="term-line text-5xl font-mono font-bold mb-4 mt-8">
     arya<span className="text-mocha-overlay2">@</span>
-    <span className="text-mocha-mauve">arch</span>
+    <span className="text-mocha-mauve">home</span>
   </h1>
 
   <p className="term-line font-mono text-mocha-text mb-4">
